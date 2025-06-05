@@ -3,8 +3,4 @@
 # About Me 
 I am a dedicated IT student based in Statesboro, Ga, currently studying to become a skilled IT professional. I am passionate about technology, eager to learn, and looking to gain hands-on experience in the field.
 # Technical Skills
-*Basic Networking
-*Windows Operating System
-*Cybersecurity Fundamentals
-*Computer Troubleshooting
-*Command Line Tools
+Basic Networking, Windows Operating System, Cybersecurity Fundamentals, Computer Troubleshooting, Command Line Tools
