@@ -19,5 +19,6 @@ Basic Networking, Windows Operating System, Cybersecurity Fundamentals, Computer
 
 Solution : Verified identity, accessed recovery options, and guided user through password reset steps.
 # Resume
-Click here to download my resume:
+Click below to download my resume.
+
 [Zaneta_Robinson_Resume.pdf](https://github.com/user-attachments/files/20603623/Zaneta_Robinson_Resume.pdf)
